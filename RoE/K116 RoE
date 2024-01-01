@@ -1,7 +1,7 @@
 K116 Rules of Engagement (RoE)
-Last Updated: December 18, 2023
+Last Updated: January 1, 2024
 .
-Please speak with the Senate about any issues or questions you have with the following. 
+Please speak with the Council about any issues or questions you have with the following. 
 - All players of K116 should always uphold this RoE
 - Clan leadership is responsible for educating their clan to follow the RoE
 - Players in Computer Generated Clans (CGC) are encouraged to join Human-made clans
@@ -19,7 +19,7 @@ Please speak with the Senate about any issues or questions you have with the fol
 
 1.5 - Computer Generated Clans (CGC) and Clanless have limited protections in the ROE - players under 200k cannot be attacked except by players under 200K at the time of the attack, or if they attacked first (With a Battle report). Others receive no protection
 1.6 - All clans must have a listed diplomat, who is a Superior or Leader of that clan, otherwise the Clan Leader will assume that role.  Only the Diplomat or Clan Leader, and the involved parties, will have standing in cases with the K116 Court.  All Diplomats and Clan Leaders MUST join the channel ‘K116 Diplomacy’
-1.7 - The K116 Court is made up of 6 Judges who act under the authority of the Senate.  Judges are appointed or removed by decree of the K116 Senate.  They process and rule on cases as defined in RoE 4.2
+1.7 - The K116 Court is made up of 6 Judges who act under the authority of the King.  Judges are appointed or removed by decree of the King.  They process and rule on cases as defined in RoE 4.2
 1.8 - No clan may harbour an outlaw player, and must remove Outlaws player at the request of the court or may become Outlaw Clans
 
 
@@ -28,14 +28,19 @@ Please speak with the Senate about any issues or questions you have with the fol
 2.1 - Clan marches against other players are illegal*
 A clan march is defined as any player attacking another K116 player with reinforcements
 Clan marches against portals from other kingdoms, or cities in other kingdoms are permitted
-* Pre-arranged Conquest Point (CP) Runs and Exchanges are permitted, and in fact encouraged, provided proof of prior arrangement can be provided.
+* Pre-arranged Conquest Point (CP) Runs and Exchanges are permitted, and in fact encouraged, provided proof of prior arrangement can be provided
+
+
+
 2.2 - All resources, including gold, tar, silver, food, wood, stone and iron in any form, and portals inside a clan territory belong to that clan and are protected
 Crypts, arenas, citadels and monsters are not resources, and are thus open to everyone
+2.3 - Computer generated resource tiles that are outside of clan territories are owned by the first to get there, and they cannot be kicked off. If you leave that tile, then it is open for others to take
+2.4 - Any resource tile made by a player with blue prints belong to that player.  If another player occupies that tile the owner can remove the player themselves or ask another player to remove them.  Proof of ownership at the time of the attack must be provided, a screenshot will be taken as proof
+See Appendix 1 for identification of player created titles
 
 
 
-
-2.3 - Clan buildings are not to be attacked at any time
+2.5 - Clan buildings are not to be attacked at any time
 Attacks on clan buildings, including forts, will be subject to the following penalties, payable to the attacked clan
 - Scouting - 1m silver
 - Attack without destroying - 10m silver
@@ -46,14 +51,13 @@ Attacks on clan buildings in other Kingdoms are only allowed in retaliation on o
 
 
 
-2.4 - Resource tiles that are outside of clan territories are owned by the first to get there, and they cannot be kicked off. If you leave that tile, then it is open for others to take
-2.5 - You may have 1 Dragon Mount (DM) or Well Spring (WS) per 24 hours period that is outside of your clans area
+2.6 - You may have 1 Dragon Mount (DM) or Well Spring (WS) per 24 hours period that is outside of your clans area
 DM must be registered in ‘K116 Gold Reg Only’ and Tar in ‘K116 Tar Reg Only'
 Registration must be the final 2 digits of the X and Y coordinate
 Example: a DM or WS at K:116 X:404 Y:784 would be registered as 04,84
 Once registered you have 15 minutes to occupy the DM or WS
 You may remove or have removed a player on an DM or WS you have legally registered
-2.6 - No ingot collection is authorized without the express consent of a clan leader or superior. 
+2.7 - No ingot collection is authorized without the express consent of a clan leader or superior. 
 It is each clan's responsibility to uphold tax collection and ensure their members do not hoard.
 
 
@@ -114,18 +118,7 @@ Outlaw status will remain in place until the player is pardoned, after compensat
 
 
 5. FINAL AUTHORITY AND DECREES
-5.1 - In all matters, the King shall have full authority on all conflict/clarification and RoE changes, should the K116 Senate not be able to agree. Only King may issue a Clan level Outlaw Decree or Pardon
-
-
-
-* ADDITIONAL INFORMATION *
-K116 Court, December 18, 2023
-Judges:
-- VGD Tancred
-- MWP Eric
-- VGD Vorpal Bunny
-- MWP Ste
-- MWP Guzikowsky
+5.1 - In all matters, the King shall have full authority on all conflict/clarification and RoE changes, should the K116 Council not be able to agree. Only King may issue a Clan level Outlaw Decree or Pardon
 
 
 
@@ -152,13 +145,29 @@ Chats to Add
 - K116 - Verdicts
 - K116 Defense
 - K116 Hostile WW
-- Senate is given on demand
 .
 See web version for Council and Court membership
 
 
-
 https://bit.ly/K116ROE
+
+
+APPENDIX 1
+,
+Identifying Computer and Player tiles
+Tile level 30 and above are always player created
+Tiles level 25 of under:
+Check the tile type, players can only create on a tile with the same rss bonus i.e.
+- Sand will build a Village which produces Silver
+- Plains will build a Farmer's House which will produce Food
+- Hilly Meadow (looking rocky) will build a Quarry which will produce Stone
+- Trees will build a Sawmill which will produce Wood
+- Mountains will produce a Mine that will produce Iron
+- A computer made village 25 will have 1m silver, a player one 5m
+- All tiles can have gold mines, but a 'gold mine' is always player made (they are Dragon Mounds in the wild)
+A player build rss tile will always end in a 0 or 5 
+If you're not sure, ask your clan leadership or an experienced player
+
 
 
 ----------------------------
