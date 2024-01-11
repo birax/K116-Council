@@ -8,7 +8,7 @@ Could you and your player please come to 'k116 Court Chat' to discuss the case.
 
 
 Outlaw Decree:
-++++ Council Decree - Outlaw ++++ DATE TIME
+++++ Council Decree - Outlaw ++++ DATE
 .
 For a Peace time attack in violation of the Rules of Engagement of this kingdom #83, by the player ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY), compensation of COMPENSATION silver (tax included) to PLAYER (X XXX Y YYY) is hereby declared an OUTLAW of this kingdom
 They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW status until seeking and obtaining a pardon from the k116 Council at k116 Violation Chat
@@ -16,7 +16,7 @@ They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW 
 ++++ End of Decree:  Outlaw ++++
 
 Outlaw Decree:
-++++ Council Decree - Outlaw ++++ DATE TIME
+++++ Council Decree - Outlaw ++++ DATE
 .
 For a clan building attacks in violation of the Rules of Engagement of this kingdom #83, by the player ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY) on the fort of [TAGS] CLAN, compensation of COMPENSATION silver (tax included) to PLAYER (X XXX Y YYY) is hereby declared an OUTLAW of this kingdom
 They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW status until seeking and obtaining a pardon from the k116 Council at k116 Violation Chat
@@ -24,13 +24,47 @@ They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW 
 ++++ End of Decree:  Outlaw ++++
 
 Outlaw Decree:
-++++ Council Decree - Outlaw ++++ DATE TIME
+++++ Council Decree - Outlaw ++++ DATE
 .
 For a violation of their Conditional Pardon, the player ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY) has their Outlaw status reinstated, and all previous compensation is now due
 They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW status until seeking and obtaining a pardon from the k116 Council at k116 Violation Chat
 .
 ++++ End of Decree:  Outlaw ++++
 
+
+++++ Royal Decree - Outlaw  Clan ++++ DATE
+.
+In the name of the King, the K116 Court declares the clan [TAGS] CLAN NAME an Outlaw Clan.  Their clan and family leader, PLAYER NAME is an outlaw of this kingdom, and any clans he leads or is part of shall be named and remain outlaws until he is removed.
+.
+Hereby all players present within or joining [TAG] CLAN NAME are stripped of all protections under the Rules of Engagement, though as all citizens of k116 they are still subject to those rules.
+.
+The clan may only seek a pardon should all outlaws be removed and all players lawful.
+.
+++++ End of Decree:  Outlaw Clan ++++
+
+
+++++ Royal Decree - Outlaw  Clan ++++ DATE
+.
+In the name of the King, the K116 Court declares the clan [TAGS] CLAN NAME an Outlaw Clan.  The clan harbours the Outlaw PLAYER NAME, and so the clan is named and remain outlaws until he is removed.
+.
+Hereby all players present within or joining [TAG] CLAN NAME are stripped of all protections under the Rules of Engagement, though as all citizens of k116 they are still subject to those rules.
+.
+The clan may only seek a pardon should all outlaws be removed and all players lawful.
+.
+++++ End of Decree:  Outlaw Clan ++++
+
+
+*** SPECIFIC USE FOR K116 ***
+
+++++ Royal Decree - Outlaw  Clan ++++ 11 January 2024
+.
+In the name of the King, the K116 Court declares the clan [Gun] Hotel Continental an Outlaw Clan.  Their clan and family leader, Valkiriya (Валькирия) is an outlaw of this kingdom, and any clans he leads or is part of shall be named and remain outlaws until he is removed.
+.
+Hereby all players present within or joining [Gun] Hotel Continental are stripped of all protections under the Rules of Engagement, though as all citizens of k116 they are still subject to those rules.
+.
+The clan may only seek a pardon should all outlaws be removed, and all players lawful.
+.
+++++ End of Decree:  Outlaw Clan ++++
 
 Pardon:
 ++++ Council Decree: Pardon ++++ DATE TIME
