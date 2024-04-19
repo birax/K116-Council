@@ -121,10 +121,10 @@ Outlaw status will remain in place until the player is pardoned, after compensat
 K116 Council
 Seat	Clan	Member
 King	FUR	sniffy	[non voting]
-Representative	FUR	sniffy	[voting]
 Representative	COS		[voting]
-Representative	ICC	ChaseKillian	[voting]
+Representative	FUR	sniffy	[voting]
 Representative	FUR 1	Eric	[voting]
+Representative	ICC	ChaseKillian	[voting]
 Representative	RIM ROMA 2	Roli	[voting]
 Representative	RIM ROME	Scipio Africanua	[voting]
 Representative	TRN	MarvinMartian	[voting]
