@@ -10,7 +10,7 @@ Could you and your player please come to 'k116 Court Chat' to discuss the case.
 Outlaw Decree:
 ++++ Council Decree - Outlaw ++++ DATE
 .
-For a Peace time attack in violation of the Rules of Engagement of this kingdom #83, by the player ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY), compensation of COMPENSATION silver (tax included) to PLAYER (X XXX Y YYY) is hereby declared an OUTLAW of this kingdom
+For a Peace time attack in violation of the Rules of Engagement of this kingdom #116, by the player ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY), compensation of COMPENSATION silver (tax included) to PLAYER (X XXX Y YYY) is hereby declared an OUTLAW of this kingdom
 They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW status until seeking and obtaining a pardon from the k116 Council at k116 Violation Chat
 .
 ++++ End of Decree:  Outlaw ++++
@@ -18,7 +18,7 @@ They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW 
 Outlaw Decree:
 ++++ Council Decree - Outlaw ++++ DATE
 .
-For a clan building attacks in violation of the Rules of Engagement of this kingdom #83, by the player ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY) on the fort of [TAGS] CLAN, compensation of COMPENSATION silver (tax included) to PLAYER (X XXX Y YYY) is hereby declared an OUTLAW of this kingdom
+For a clan building attacks in violation of the Rules of Engagement of this kingdom #116, by the player ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY) on the fort of [TAGS] CLAN, compensation of COMPENSATION silver (tax included) to PLAYER (X XXX Y YYY) is hereby declared an OUTLAW of this kingdom
 They shall be rendered clanless, shall remain clanless, and shall retain OUTLAW status until seeking and obtaining a pardon from the k116 Council at k116 Violation Chat
 .
 ++++ End of Decree:  Outlaw ++++
@@ -83,14 +83,24 @@ He is now a member in good standing with this kingdom
 ++++ End of Decree:  Pardon ++++
 
 Expulsion Order:
-++++ Council Decree: Explusion ++++ DATE TIME
+++++ Council Decree: Expulsion ++++ DATE TIME
 The clan [TAGS] CLAN is hereby ordered to evict the outlaw: ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY) [outlawed DATE] from their clan within 24 hrs of this notice
 .
 Failure to do so will be considered a contravention of the RoE of k116 and will result in the clan and all its members losing their protected status
 You are therefore encouraged to take this notice seriously and to act expeditiously before the petition of CLAN OUTLAW DECREE is made to the King
 .
 This is a final warning and no further delay will be allowed
-++++ End of Decree: Explusion ++++
+++++ End of Decree: Expulsion ++++
+
+
+++++ Council Decree: Expulsion ++++ DATE TIME
+The clan [TAGS] CLAN is hereby ordered to evict the outlaw: ([TAGS] NAME Might MIGHT HL HERO Vip VIP Castle CAPITAL Last Known Co-ordinates X XXX Y YYY) [outlawed DATE] from their clan within 24 hrs of this notice
+.
+Failure to do so will be considered a contravention of the RoE of k116 and will result in the clan being declare outlaw and all its members losing their protected status
+You are therefore encouraged to take this notice seriously and to act expeditiously before the 24 deadline is up
+.
+This is a final warning and no further delay will be allowed
+++++ End of Decree: Expulsion ++++
 
 Dead Clan:
 ++++ Council Decree: Dead Clan ++++ DATE TIME
