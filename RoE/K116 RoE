@@ -121,26 +121,20 @@ Outlaw status will remain in place until the player is pardoned, after compensat
 
 K116 Council
 Seat	Clan	Member
-King	FUR	sniffy	[non voting]
-Representative	COS		[voting]
+King	VGD	LongClaw	[non voting]
 Representative	FUR	sniffy	[voting]
 Representative	FUR 1	Eric	[voting]
-Representative	ICC	ChaseKillian	[voting]
+Representative	ICC	Charlies Angel	[voting]
 Representative	RIM ROMA 2	Roli	[voting]
 Representative	RIM ROME	Scipio Africanua	[voting]
-Representative	TRN	MarvinMartian	[voting]
 Representative	VGD Knights	Birax	[voting]
-Representative	VGD Vikings	Joseph Milani	[voting]
+Representative	VGD Vikings	LongClaw	[voting]
 
 K116 Judges
-Clan	Judge
-COS  Popeye
-FAR  Benjamin
 FUR  Youngstuntj
 ICC  CareBare
 MKC  Headless Horseman
-RIM  Tincha
-VGD  Longclaw
+
 
 
 
